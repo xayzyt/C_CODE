@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE01\\test_c\\test-7-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{521D6AFB-587B-4D8B-8B8E-03D24350476E}|test-7-04\\test-7-04.vcxproj|D:\\CODE01\\test_c\\test-7-04\\test-7-04\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{521D6AFB-587B-4D8B-8B8E-03D24350476E}|test-7-04\\test-7-04.vcxproj|solutionrelative:test-7-04\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521D6AFB-587B-4D8B-8B8E-03D24350476E}|test-7-04\\test-7-04.vcxproj|D:\\CODE01\\test_c\\test-7-04\\test-7-04\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{521D6AFB-587B-4D8B-8B8E-03D24350476E}|test-7-04\\test-7-04.vcxproj|solutionrelative:test-7-04\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\CODE01\\test_c\\test-7-04\\test-7-04\\test.c",
+              "RelativeDocumentMoniker": "test-7-04\\test.c",
+              "ToolTip": "D:\\CODE01\\test_c\\test-7-04\\test-7-04\\test.c",
+              "RelativeToolTip": "test-7-04\\test.c",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-04T03:26:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.c",
+              "DocumentMoniker": "D:\\CODE01\\test_c\\test-7-04\\test-7-04\\add.c",
+              "RelativeDocumentMoniker": "test-7-04\\add.c",
+              "ToolTip": "D:\\CODE01\\test_c\\test-7-04\\test-7-04\\add.c",
+              "RelativeToolTip": "test-7-04\\add.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-04T09:04:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
