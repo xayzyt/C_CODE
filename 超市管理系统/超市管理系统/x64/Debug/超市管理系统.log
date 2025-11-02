@@ -1,0 +1,18 @@
+﻿  main.c
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(63,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(66,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(69,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(72,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(75,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(78,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(94,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(124,7): warning C4013: “strcspn”未定义；假设外部返回 int
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(135,8): warning C4013: “strcmp”未定义；假设外部返回 int
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(126,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(143,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(216,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(282,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(307,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CODE01\2025\超市管理系统\超市管理系统\main.c(316,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  超市管理系统.vcxproj -> D:\CODE01\2025\超市管理系统\x64\Debug\超市管理系统.exe
