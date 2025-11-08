@@ -1,0 +1,103 @@
+﻿  main.cpp
+D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(18,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(259,6):
+      可能是“int loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(18,2):
+          “int loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [7]”转换为“LPCTSTR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(18,18):
+              指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(258,6):
+      或    “int loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(18,2):
+          “int loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [7]”转换为“LPCTSTR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(18,18):
+              指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(18,2):
+      尝试匹配参数列表“(IMAGE *, const char [7], int, int)”时
+  
+D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(29,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(249,6):
+      可能是“void settextstyle(int,int,LPCTSTR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(29,2):
+          “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [13]”转换为“LPCTSTR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(29,22):
+              指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(29,2):
+      尝试匹配参数列表“(int, int, const char [13])”时
+  
+D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(32,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(226,6):
+      可能是“void outtextxy(int,int,TCHAR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(32,2):
+          “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [19]”转换为“TCHAR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(32,21):
+              没有使该转换得以执行的上下文
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(225,6):
+      或    “void outtextxy(int,int,LPCTSTR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(32,2):
+          “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [19]”转换为“LPCTSTR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(32,21):
+              指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(32,2):
+      尝试匹配参数列表“(int, int, const char [19])”时
+  
+D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(35,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(249,6):
+      可能是“void settextstyle(int,int,LPCTSTR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(35,2):
+          “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [13]”转换为“LPCTSTR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(35,22):
+              指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(35,2):
+      尝试匹配参数列表“(int, int, const char [13])”时
+  
+D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(37,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(226,6):
+      可能是“void outtextxy(int,int,TCHAR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(37,2):
+          “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [25]”转换为“TCHAR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(37,22):
+              没有使该转换得以执行的上下文
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(225,6):
+      或    “void outtextxy(int,int,LPCTSTR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(37,2):
+          “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [25]”转换为“LPCTSTR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(37,22):
+              指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(37,2):
+      尝试匹配参数列表“(int, int, const char [25])”时
+  
+D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(38,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(226,6):
+      可能是“void outtextxy(int,int,TCHAR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(38,2):
+          “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [31]”转换为“TCHAR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(38,22):
+              没有使该转换得以执行的上下文
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(225,6):
+      或    “void outtextxy(int,int,LPCTSTR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(38,2):
+          “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [31]”转换为“LPCTSTR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(38,22):
+              指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(38,2):
+      尝试匹配参数列表“(int, int, const char [31])”时
+  
+D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(65,3): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\easyx.h(249,6):
+      可能是“void settextstyle(int,int,LPCTSTR)”
+          D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(65,3):
+          “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [13]”转换为“LPCTSTR”
+              D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(65,23):
+              指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(65,3):
+      尝试匹配参数列表“(int, int, const char [13])”时
+  
+D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(82,6): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [16]”转换为“LPCWSTR”
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(82,23):
+      指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(9239,1):
+      参见“MessageBoxW”的声明
+      D:\CODE01\2025\打字练习系统\打字练习系统\main.cpp(82,6):
+      尝试匹配参数列表“(int, const char [16], const char [7], long)”时
+  

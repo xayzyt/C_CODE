@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="打字练习系统/打字练习系统.vcxproj" Id="cf6e832a-abb1-469f-8e6f-32301ac3a2cf" />
+</Solution>
