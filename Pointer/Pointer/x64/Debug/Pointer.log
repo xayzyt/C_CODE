@@ -1,0 +1,6 @@
+﻿  pointer.c
+D:\CODE01\2025\Pointer\Pointer\pointer.c(11,6): warning C4101: “i”: 未引用的局部变量
+D:\CODE01\2025\Pointer\Pointer\pointer.c(30,16): warning C4047: “<”:“int”与“int *”的间接级别不同
+D:\CODE01\2025\Pointer\Pointer\pointer.c(73,35): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\CODE01\2025\Pointer\Pointer\pointer.c(73,35): warning C4024: “findmaxandcount”: 形参和实参 4 的类型不同
+  Pointer.vcxproj -> D:\CODE01\2025\Pointer\x64\Debug\Pointer.exe
